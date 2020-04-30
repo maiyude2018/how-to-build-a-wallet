@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run hello1.py
